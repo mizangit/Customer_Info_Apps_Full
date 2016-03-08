@@ -1,0 +1,15 @@
+﻿body {
+
+
+}
+#Panel1 div{
+
+    float:right;
+    padding-left:10px;
+    width:200px;
+    height:200px;
+
+}
+#PanalDiv{
+    align-items:center;
+}

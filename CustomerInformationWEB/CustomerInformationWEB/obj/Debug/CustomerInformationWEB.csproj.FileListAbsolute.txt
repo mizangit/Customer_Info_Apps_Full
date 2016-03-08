@@ -1,0 +1,6 @@
+G:\C#\Ongoing\CustomerInformationWEB\CustomerInformationWEB\CustomerInformationWEB\bin\CustomerInformationWEB.dll.config
+G:\C#\Ongoing\CustomerInformationWEB\CustomerInformationWEB\CustomerInformationWEB\bin\CustomerInformationWEB.dll
+G:\C#\Ongoing\CustomerInformationWEB\CustomerInformationWEB\CustomerInformationWEB\bin\CustomerInformationWEB.pdb
+G:\C#\Ongoing\CustomerInformationWEB\CustomerInformationWEB\CustomerInformationWEB\obj\Debug\CustomerInformationWEB.csprojResolveAssemblyReference.cache
+G:\C#\Ongoing\CustomerInformationWEB\CustomerInformationWEB\CustomerInformationWEB\obj\Debug\CustomerInformationWEB.dll
+G:\C#\Ongoing\CustomerInformationWEB\CustomerInformationWEB\CustomerInformationWEB\obj\Debug\CustomerInformationWEB.pdb
